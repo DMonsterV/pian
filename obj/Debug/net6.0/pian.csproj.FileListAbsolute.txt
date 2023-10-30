@@ -1,0 +1,14 @@
+C:\Users\foxso\source\repos\pian\bin\Debug\net6.0\pian.exe
+C:\Users\foxso\source\repos\pian\bin\Debug\net6.0\pian.deps.json
+C:\Users\foxso\source\repos\pian\bin\Debug\net6.0\pian.runtimeconfig.json
+C:\Users\foxso\source\repos\pian\bin\Debug\net6.0\pian.dll
+C:\Users\foxso\source\repos\pian\bin\Debug\net6.0\pian.pdb
+C:\Users\foxso\source\repos\pian\obj\Debug\net6.0\pian.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\foxso\source\repos\pian\obj\Debug\net6.0\pian.AssemblyInfoInputs.cache
+C:\Users\foxso\source\repos\pian\obj\Debug\net6.0\pian.AssemblyInfo.cs
+C:\Users\foxso\source\repos\pian\obj\Debug\net6.0\pian.csproj.CoreCompileInputs.cache
+C:\Users\foxso\source\repos\pian\obj\Debug\net6.0\pian.dll
+C:\Users\foxso\source\repos\pian\obj\Debug\net6.0\refint\pian.dll
+C:\Users\foxso\source\repos\pian\obj\Debug\net6.0\pian.pdb
+C:\Users\foxso\source\repos\pian\obj\Debug\net6.0\pian.genruntimeconfig.cache
+C:\Users\foxso\source\repos\pian\obj\Debug\net6.0\ref\pian.dll
